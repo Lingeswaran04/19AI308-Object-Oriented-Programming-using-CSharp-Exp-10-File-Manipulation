@@ -1,0 +1,15 @@
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.exe
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.deps.json
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.runtimeconfig.json
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.dll
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.pdb
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.AssemblyInfoInputs.cache
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.AssemblyInfo.cs
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.csproj.CoreCompileInputs.cache
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.sourcelink.json
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.dll
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\obj\Debug\net8.0\refint\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.dll
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.pdb
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.genruntimeconfig.cache
+C:\c#\exp_10\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation\obj\Debug\net8.0\ref\19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.dll
