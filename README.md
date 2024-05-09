@@ -68,7 +68,8 @@ class Program
 ```
 
 # OUTPUT:
-![alt text](image.png)
+![image](https://github.com/Lingeswaran04/19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation/assets/119103865/e47fc0dd-9e04-46b0-bc69-69d55cf1048b)
+
 
 # RESULT:
 Thus the C# program to get the values from the user using structure and store it in a file in a specific path using file stream concept executed successfully.
