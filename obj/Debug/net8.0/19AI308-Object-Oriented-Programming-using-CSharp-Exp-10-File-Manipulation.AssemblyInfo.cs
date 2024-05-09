@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a530e16039f5c693bc8ec5d685a4cc0500c3b47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+641ee3480b4d570864fd89a9d3a1f9cda7498670")]
 [assembly: System.Reflection.AssemblyProductAttribute("19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
